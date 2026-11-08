@@ -1,1 +1,1 @@
-# Square-assets
+# Square-assets- property listing application
